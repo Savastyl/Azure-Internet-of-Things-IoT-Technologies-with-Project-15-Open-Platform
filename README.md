@@ -1,4 +1,4 @@
-# Azure Things (IoT) technologies with Project 15 Open Platform
+# Azure Internet of Things (IoT) technologies with Project 15 Open Platform
 
 ![Alt text](Media/1.png)
 
