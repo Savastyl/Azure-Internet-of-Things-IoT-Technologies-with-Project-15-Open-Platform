@@ -154,5 +154,6 @@ A web site to :
 
 ![Alt text](Media/9.png)
 
+### Visualization of Resources
 
 ![Alt text](Media/8.png)
