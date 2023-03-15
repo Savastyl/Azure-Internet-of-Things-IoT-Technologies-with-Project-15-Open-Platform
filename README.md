@@ -151,9 +151,11 @@ A web site to :
 ![Alt text](Media/7.png)
 
 
-
-![Alt text](Media/9.png)
+![Alt text](Media/8.png)
 
 ### Visualization of Resources
+![Alt text](Media/9.png)
 
-![Alt text](Media/8.png)
+
+
+
